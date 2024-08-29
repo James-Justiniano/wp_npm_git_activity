@@ -2,17 +2,15 @@
   "name": "npm_git_activity",
   "version": "1.0.0",
   "description": "NPM and GIT activity",
-  "main": "index.js",
+  "author": "Your Firstname Lastname",
   "scripts": {
     "server": "live-server"
   },
-  "author": "James Justiniano",
-  "license": "ISC",
   "devDependencies": {
-    "live-server": "^1.2.1",
-    "tailwindcss": "^3.0.0"
+    "live-server": "^1.2.1", 
+    "tailwindcss": "^2.0.0" 
   },
   "dependencies": {
-    "moment": "^2.29.1"
+    "moment": "^2.29.1" 
   }
 }
